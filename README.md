@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm rue (he/him), a student ready to learn the vast world of tech!
+
+🌱 I’m currently learning Web Development (HTML, CSS, JavaScript).
+🎥 Random fact: I like watching movies.
+
 <!--
 **rue-22/rue-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

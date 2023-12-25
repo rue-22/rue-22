@@ -2,7 +2,7 @@
 
 I'm rue (he/him), currently a student.
 
-🖥 I’m currently learning Web Development (HTML, CSS, JavaScript).
+Motivated to learn. Movie junkie. Sucker for nature.
 
 <!--
 **rue-22/rue-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

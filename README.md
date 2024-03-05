@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm rue (he/him), currently a student.
-
-Motivated to learn. Movie junkie. Sucker for nature.
+I'm rue (he/him), currently a student from UP Diliman.
 
 <!--
+Motivated to learn. Movie junkie. Sucker for nature.
+
 **rue-22/rue-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm rue (he/him), currently a student from UP Diliman.
+I'm rue (he/him), currently a Computer Science student from University of the Philippines Diliman.
 
 <!--
 Motivated to learn. Movie junkie. Sucker for nature.

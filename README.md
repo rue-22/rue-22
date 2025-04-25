@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Carl!</h1>
+<h1 align="left">Hi 👋, What's up?</h1>
+
+###
+
+My name's Carl, currently a computer science undergraduate!
 
 ###
 

@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, What's up?</h1>
+<img width="1426" height="875" alt="image" src="https://github.com/user-attachments/assets/46270add-f2cd-4ced-ae84-4a985b26ce5e" /><h1 align="left">Hi 👋, What's up?</h1>
 
 ###
 
@@ -11,8 +11,8 @@ My name's Carl, currently a computer science undergraduate!
 ###
 
 <ul align="left">
-  <li>📚 I'm a third year Computer Science student from University of the Philippines Diliman.</li>
-  <li>💻 I'm interested in Software Engineering and Development. I also try to dabble in Machine Learning, AI, and all that good stuff.</li>
+  <li>📚 I'm a fourth year CS student from University of the Philippines Diliman.</li>
+  <li>💻 I'm interested in Software Engineering and ✨AI✨ Engineering.</li>
 </ul>
 
 ###

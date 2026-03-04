@@ -1,8 +1,10 @@
-<h1 align="center">Carl Salces</h1>
+<p align="center" style="font-size: 35px; font-weight: 700;">
+  Carl Salces
+</p>
 
-<br/>
-
-<h4 align="center">Software Engineer · AI Engineer</h4>
+<p align="center" style="font-size: 18px;">
+  Software Engineer · AI Engineer
+</p>
 
 ---
 

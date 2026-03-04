@@ -1,26 +1,21 @@
 <h1 align="center">Carl Salces</h1>
 <h3 align="center">Software Engineer · AI Engineer</h3>
 
-<p align="center">
-Building scalable systems and intelligent applications.
-</p>
+---
 
-<p align="center">
-CS @ University of the Philippines Diliman
-</p>
+## About
+
+Computer Science student at the University of the Philippines Diliman.  
+Focused on scalable backend systems, applied AI, and production-grade tooling.
+
+I build systems that are practical, performant, and maintainable.
 
 ---
 
-<h3 align="center">Connect</h3>
+## Connect
 
-<p align="center">
-<a href="https://linkedin.com/in/cjsalces" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/carlsalces" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+[LinkedIn](https://linkedin.com/in/cjsalces)  
+[Instagram](https://instagram.com/carlsalces)
 
 <!-- <h1 align="center">Hi 👋, I'm Carl</h1>
 <h3 align="center">Software Engineer | AI Engineer</h3>

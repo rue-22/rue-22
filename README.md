@@ -5,16 +5,14 @@
 
 ## About
 
-Computer Science student at the University of the Philippines Diliman.  
-Focused on scalable backend systems, applied AI, and production-grade tooling.
-
-I build systems that are practical, performant, and maintainable.
+- CS @ University of the Philippines Diliman.  
+- Focused on scalable fullstack systems, applied AI, and production-grade tooling.
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/cjsalces)  
+[LinkedIn](https://linkedin.com/in/cjsalces) 
 [Instagram](https://instagram.com/carlsalces)
 
 <!-- <h1 align="center">Hi 👋, I'm Carl</h1>
@@ -67,7 +65,6 @@ My name's Carl, currently a computer science undergraduate!
 </div>
 
 ###
--->
 
 <h2 align="left">Connect with me</h2>
 

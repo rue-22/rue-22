@@ -1,10 +1,5 @@
-<p align="center" style="font-size: 35px; font-weight: 700;">
-  Carl Salces
-</p>
-
-<p align="center" style="font-size: 18px;">
-  Software Engineer · AI Engineer
-</p>
+# Carl Salces
+### Software Engineer · AI Engineer
 
 ---
 

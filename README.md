@@ -1,5 +1,5 @@
 <h1 align="center">Carl Salces</h1>
-<h4 align="center">Software Engineer · AI Engineer</h4>
+<h3 align="center">Software Engineer · AI Engineer</h3>
 
 ---
 
@@ -8,10 +8,11 @@
 
 ---
 
-## Connect
-
-[LinkedIn](https://linkedin.com/in/cjsalces) 
-[Instagram](https://instagram.com/carlsalces)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cjsalces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cjsalces" height="30" width="40" /></a>
+<a href="https://instagram.com/carlsalces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlsalces" height="30" width="40" /></a>
+</p>
 
 <!-- <h1 align="center">Hi 👋, I'm Carl</h1>
 <h3 align="center">Software Engineer | AI Engineer</h3>

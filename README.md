@@ -1,5 +1,5 @@
-# Carl Salces
-### Software Engineer · AI Engineer
+<h1 align="center">Carl Salces</h1>
+<h4 align="center">Software Engineer · AI Engineer</h4>
 
 ---
 

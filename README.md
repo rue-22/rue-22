@@ -1,4 +1,29 @@
-<h1 align="left">Hi 👋, What's up?</h1>
+<h1 align="center">Carl Salces</h1>
+<h3 align="center">Software Engineer · AI Engineer</h3>
+
+<p align="center">
+Building scalable systems and intelligent applications.
+</p>
+
+<p align="center">
+CS @ University of the Philippines Diliman
+</p>
+
+---
+
+<h3 align="center">Connect</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/cjsalces" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/carlsalces" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Carl</h1>
+<h3 align="center">Software Engineer | AI Engineer</h3>
 
 ###
 
@@ -63,4 +88,4 @@ My name's Carl, currently a computer science undergraduate!
   <a href="https://www.facebook.com/carljohn.salces" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="40" />
   </a>
-</div>
+</div> -->

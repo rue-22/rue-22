@@ -3,8 +3,6 @@
 
 ---
 
-## About
-
 - CS @ University of the Philippines Diliman.  
 - Focused on scalable fullstack systems, applied AI, and production-grade tooling.
 

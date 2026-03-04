@@ -1,5 +1,8 @@
 <h1 align="center">Carl Salces</h1>
-<h3 align="center">Software Engineer · AI Engineer</h3>
+
+<br/>
+
+<h4 align="center">Software Engineer · AI Engineer</h4>
 
 ---
 
